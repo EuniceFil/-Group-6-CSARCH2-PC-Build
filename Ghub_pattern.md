@@ -1,4 +1,4 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 6
 
 **Course**: CSARCH2  
 **Section**: S19  
@@ -90,6 +90,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
