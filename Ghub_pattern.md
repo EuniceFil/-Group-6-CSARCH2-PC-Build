@@ -1,13 +1,13 @@
 # Custom Desktop PC Build – Group X
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S19  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- Amon, Mikaela Nicole B.
+- Filipino, Eunice Marble R. 
+- Lazaro, Heisel Janine C.  
+- Tria, Chynna Mae Z.  
+- Wee, Justine Erika D.  
 
 ---
 
@@ -90,5 +90,6 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
