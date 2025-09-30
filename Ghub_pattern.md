@@ -84,10 +84,9 @@ For each part, explain compatibility and choices.
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
+Overall, the group successfully assembled an AMD-based budget gaming system capable of running light 720p games such as League of Legends, Portal, and Underlords for Php 19,914, staying within the Php 20,000 budget while ensuring full compatibility among all components.
+Throughout the process, the differences between international and local prices for individual components were evident. While most parts were relatively close in price, certain components such as the motherboard, RAM, power supply, and case were noticeably more affordable in the local market. Conversely, the SSD was priced higher locally compared to its international counterpart. As a result, the group had to carefully prioritize budget allocation, while also facing the challenge that many stocks were only available through less reliable platforms like Shopee or Lazada. These variations highlight how specific components can either ease or constrain budget allocations, depending on regional availability and pricing trends.
+Through this project, the group gained a deeper understanding of how each component influences system performance and compatibility. Beyond managing the budget, we learned the importance of making informed decisions that balance performance, availability, and trade-offs in designing a reliable PC. The experience also emphasized the need to stay aligned with the system’s purpose and goals, rather than simply choosing what is available—reminding us that every component plays a vital role in ensuring the system functions as one. 
 
 ---
 ## 7. Video pitch
@@ -101,6 +100,7 @@ Reflections on:
 - https://www.systemrequirementslab.com/cyri/requirements/portal/10668
 - https://support-leagueoflegends.riotgames.com/hc/en-us/articles/201752654-Minimum-and-Recommended-System-Requirements-League-of-Legends
 - https://easypc.com.ph/products/amd-ryzen-5-4500-gaming-desktop?variant=42861978419371
+
 
 
 
