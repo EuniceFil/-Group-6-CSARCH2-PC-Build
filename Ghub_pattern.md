@@ -20,22 +20,22 @@ The PC build uses an AMD Ryzen 5 5500, a 6-core processor that provides a solid 
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: https://pcpartpicker.com/list/h6cwWc
+PCPartPicker Permalink: https://pcpartpicker.com/list/N62JKq
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
+| CPU             | 	AMD Ryzen 5 5500 3.6 GHz 6-Core Processor   | 75.00             | ...   |
+| CPU Cooler      | Thermalright Peerless Assassin 120 SE 66.17 CFM CPU Cooler   | 34.90             | ...   |
+| Motherboard     | Gigabyte A520M K V2 Micro ATX AM4 Motherboard   | 68.23             | ...   |
+| RAM             | TEAMGROUP Elite 8 GB (1 x 8 GB) DDR4-3200 CL22 Memory   | ...             | ...   |
+| Storage 1       | 	Kingston NV2 250 GB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | ...             | ...   |
 | Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| Graphics Card   | AMD Radeon RX 6950 XT Radeon RX 6950 XT 16 GB Video Card   | ...             | ...   |
+| Power Supply    | 	MSI MAG A550BN 550 W 80+ Bronze Certified ATX Power Supply   | 54.99             | ...   |
+| Case            | 	Phanteks XT PRO ATX Mid Tower Case   | ...             | 67.98   |
+| Case Fans       | 	Thermalright TL-C12W-S V3 66.17 CFM 120 mm Fan   | 6.99             | ...   |
+| **Total**       |       | **XXX USD**     |       |
 
 ---
 
@@ -104,6 +104,7 @@ Through this project, the group gained a deeper understanding of how each compon
 - https://www.systemrequirementslab.com/cyri/requirements/portal/10668
 - https://support-leagueoflegends.riotgames.com/hc/en-us/articles/201752654-Minimum-and-Recommended-System-Requirements-League-of-Legends
 - https://easypc.com.ph/products/amd-ryzen-5-4500-gaming-desktop?variant=42861978419371
+
 
 
 
