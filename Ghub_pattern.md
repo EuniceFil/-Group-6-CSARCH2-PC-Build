@@ -50,7 +50,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/13adtvD_d47uLOYc
 | Motherboard     | GIGABYTE A520M-K V2 micro-ATX Motherboard   | [PC Express](https://pcx.com.ph/products/gigabyte-a520m-k-v2-micro-atx-motherboard?srsltid=AfmBOoo5pA3hSbJ4G_OlrbB2ZWI0VsPrYTV7HOKUPcGcH1aFdbNHrm8c) | 3,050.00         | Has two DDR4 RAM Slots, only up to 64GB (32 GB each slot)                    |
 | RAM             | TeamGroup Elite DDR4 8GB (1x8GB) 3200MHz CL22 Desktop Memory   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/teamgroup-elite-ddr4-8gb-1x8gb-3200mhz-cl22-desktop-memory-ted48g3200c2201) | 1,195.00        | Compatible with motherboard (DDR4)                |
 | Storage 1 (SSD) | KINGSTON 250GB NV2 PCIE NVME M.2 (SNV2S/250G) Solid State Drive   | [PC Express](https://pcx.com.ph/products/kingston-250gb-nv2-pcie-nvme-m-2-snv2s-250g-solid-state-drive?_pos=2&_sid=c9fab437b&_ss=r) | 1,600.00         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | N/A   | N/A   | N/A         | The recommended requirement for light 720p gaming is having a 16GB SSD                  |
+| Storage 2 (HDD) | N/A   | N/A   | N/A         | The recommended requirement for light 720p gaming is having a 16GB free disk space (already covered by the SSD)                  |
 | GPU             | Asus GeForce GT 710 2GB GDDR5 EVO PCI Express 2.0 Graphics Card   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
 | PSU             | MSI MAG A550BN   | [DynaQuest PC](https://dynaquestpc.com/products/msi-mag-a550bn-bronze-550w-80-power-supply)   | 2,559.00         | compatible with AMD Ryzen 5 5500, decent power for mid build, 550w 80+ bronze                     |
 | Case            | Tecware NEO M2 Steel Black Mesh mATX Case with 3X120mm Fans   | [DynaQuest PC](https://dynaquestpc.com/products/tecware-neo-m2-steel-black-mesh-matx-case-with-3x120mm-fans)    | 1,670.00         | Motherboard size: Supports mATX & ITX<br>CPU cooler height clearance: 175 mm max (Thermalright Peerless Assassin 120 SE is ~155 mm)<br>PSU length clearance: 160 mm (Dimensions of MSI MAG A550BN is 150 x 140 x 86 mm)<br>GPU clearance: 330 mm max                        |
@@ -90,6 +90,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
