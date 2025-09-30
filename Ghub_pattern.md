@@ -45,17 +45,17 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/13adtvD_d47uLOYc
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
-| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
-| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                        |
-| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                         |
-| **Total**       |       |                    | **XXX Php** | Within budget                        |
+| CPU             | AMD Ryzen 5 5500 3.6 GHz 6-Core Processor   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/amd-ryzen-5-5500-processor) | 4,495.00         | Socket LGA1700 compatible with B760M |
+| CPU Cooler      | Thermalright Peerless Assassin 120 SE 66.17 CFM CPU Cooler   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/thermalright-peerless-assassin-120-se-black-cpu-cooler)    | 1,950.00         | compatible with AMD Ryzen 5 5500                  |
+| Motherboard     | GIGABYTE A520M-K V2 micro-ATX Motherboard   | [PC Express](https://pcx.com.ph/products/gigabyte-a520m-k-v2-micro-atx-motherboard?srsltid=AfmBOoo5pA3hSbJ4G_OlrbB2ZWI0VsPrYTV7HOKUPcGcH1aFdbNHrm8c) | 3,050.00         | Has two DDR4 RAM Slots, only up to 64GB (32 GB each slot)                    |
+| RAM             | TeamGroup Elite DDR4 8GB (1x8GB) 3200MHz CL22 Desktop Memory   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/teamgroup-elite-ddr4-8gb-1x8gb-3200mhz-cl22-desktop-memory-ted48g3200c2201) | 1,195.00        | Compatible with motherboard (DDR4)                |
+| Storage 1 (SSD) | KINGSTON 250GB NV2 PCIE NVME M.2 (SNV2S/250G) Solid State Drive   | [PC Express](https://pcx.com.ph/products/kingston-250gb-nv2-pcie-nvme-m-2-snv2s-250g-solid-state-drive?_pos=2&_sid=c9fab437b&_ss=r) | 1,600.00         | NVMe M.2 slot supported              |
+| Storage 2 (HDD) | N/A   | N/A   | N/A         | The recommended requirement for light 720p gaming is having a 16GB SSD                  |
+| GPU             | Asus GeForce GT 710 2GB GDDR5 EVO PCI Express 2.0 Graphics Card   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
+| PSU             | MSI MAG A550BN   | [DynaQuest PC](https://dynaquestpc.com/products/msi-mag-a550bn-bronze-550w-80-power-supply)   | 2,559.00         | compatible with AMD Ryzen 5 5500, decent power for mid build, 550w 80+ bronze                     |
+| Case            | Tecware NEO M2 Steel Black Mesh mATX Case with 3X120mm Fans   | [DynaQuest PC](https://dynaquestpc.com/products/tecware-neo-m2-steel-black-mesh-matx-case-with-3x120mm-fans)    | 1,670.00         | Motherboard size: Supports mATX & ITX<br>CPU cooler height clearance: 175 mm max (Thermalright Peerless Assassin 120 SE is ~155 mm)<br>PSU length clearance: 160 mm (Dimensions of MSI MAG A550BN is 150 x 140 x 86 mm)<br>GPU clearance: 330 mm max                        |
+| Case Fans       | Thermalright TL-C12W-S V3 White ARGB Fan   | [DynaQuest PC](https://dynaquestpc.com/products/thermalright-tl-c12w-s-v3-white-argb-fan)    | 400.00         | ...                         |
+| **Total**       |       |                    | **19,918.00 Php** | Within budget                        |
 
 ---
 
@@ -90,6 +90,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
