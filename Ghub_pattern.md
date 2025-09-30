@@ -79,7 +79,10 @@ For each part, explain compatibility and choices.
 - **Budget Limit**: ₱20,000  
 - **Final Total**: ₱19,914  
 - ✅ Within budget  
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+- Notes on trade-offs:
+  1. Cheap and only 1 8GB RAM to cut costs.
+  2. No HDD and only 250GB SDD.
+  3. Aftermarket cooler added.
 
 ---
 
@@ -102,6 +105,7 @@ Through this project, the group gained a deeper understanding of how each compon
 - https://www.systemrequirementslab.com/cyri/requirements/portal/10668
 - https://support-leagueoflegends.riotgames.com/hc/en-us/articles/201752654-Minimum-and-Recommended-System-Requirements-League-of-Legends
 - https://easypc.com.ph/products/amd-ryzen-5-4500-gaming-desktop?variant=42861978419371
+
 
 
 
