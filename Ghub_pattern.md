@@ -76,9 +76,9 @@ For each part, explain compatibility and choices.
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
+- **Budget Limit**: ₱20,000  
+- **Final Total**: ₱19,914  
+- ✅ Within budget  
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
 
 ---
@@ -101,6 +101,7 @@ Reflections on:
 - https://www.systemrequirementslab.com/cyri/requirements/portal/10668
 - https://support-leagueoflegends.riotgames.com/hc/en-us/articles/201752654-Minimum-and-Recommended-System-Requirements-League-of-Legends
 - https://easypc.com.ph/products/amd-ryzen-5-4500-gaming-desktop?variant=42861978419371
+
 
 
 
