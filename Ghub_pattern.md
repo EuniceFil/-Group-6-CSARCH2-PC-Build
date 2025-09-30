@@ -55,7 +55,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/13adtvD_d47uLOYc
 | PSU             | MSI MAG A550BN   | [DynaQuest PC](https://dynaquestpc.com/products/msi-mag-a550bn-bronze-550w-80-power-supply)   | 2,559.00         | compatible with AMD Ryzen 5 5500, decent power for mid build, 550w 80+ bronze                     |
 | Case            | Tecware NEO M2 Steel Black Mesh mATX Case with 3X120mm Fans   | [DynaQuest PC](https://dynaquestpc.com/products/tecware-neo-m2-steel-black-mesh-matx-case-with-3x120mm-fans)    | 1,670.00         | Motherboard size: Supports mATX & ITX<br>CPU cooler height clearance: 175 mm max (Thermalright Peerless Assassin 120 SE is ~155 mm)<br>PSU length clearance: 160 mm (Dimensions of MSI MAG A550BN is 150 x 140 x 86 mm)<br>GPU clearance: 330 mm max                        |
 | Case Fans       | Thermalright TL-C12W-S V3 White ARGB Fan   | [DynaQuest PC](https://dynaquestpc.com/products/thermalright-tl-c12w-s-v3-white-argb-fan)    | 400.00         | ...                         |
-| **Total**       |       |                    | **19,918.00 Php** | Within budget                        |
+| **Total**       |       |                    | **19,914.00 Php** | Within budget                        |
 
 ---
 
@@ -94,6 +94,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
