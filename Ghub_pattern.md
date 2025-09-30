@@ -14,6 +14,9 @@
 ## 1. Introduction
 Briefly describe your project build (1–2 paragraphs).  
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
+The custom PC Build we have created is an AMD-based budget-tier gaming PC. Its target use case is for gaming and should be suitable for light 720p gaming with a budget constraint of ₱20,000. Some games include League Of Legends, Portal and Underlords with lowered settings. These games have recommended PC system requirements and we aimed to match all of them while staying within the budget. Using PCPartPicker’s system builder, we were able to create a PC build with compatible parts while ensuring that all parts are available locally. 
+
+The PC build uses an AMD Ryzen 5 5500, a 6-core processor that provides a solid performance for gaming at a budget level, paired with a GIGABYTE A520M-K V2 micro-ATX motherboard for stable compatibility. Compatible with the CPU is a Thermalright Peerless Assassin 120 SE CPU cooler and a MSI MAG A550BN power supply. Since the motherboard size supports mATX, the components are placed in a Tecware NEO M2 mATX case with a Thermalright ARGB case fan. For the memory, the system uses 8GB of DDR4 RAM and the graphics card is a PowerColor AMD Radeon RX 550 2GB that fits the case and is compatible with the power supply. The recommended requirement for light 720p gaming is having a 16GB free disk storage and thus, the PC build contains a 250GB NVME M.2 SSD that provides sufficient load times without needing to include a traditional hard disk drive. All in all, the build is priced at ₱19,914 which is within budget, available locally and matches its target use case for light gaming. 
 
 ---
 
@@ -93,7 +96,13 @@ Reflections on:
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
-- Any technical documentation consulted  
+- Any technical documentation consulted
+- https://www.systemrequirementslab.com/cyri/requirements/dota-underlords/18918
+- https://www.systemrequirementslab.com/cyri/requirements/portal/10668
+- https://support-leagueoflegends.riotgames.com/hc/en-us/articles/201752654-Minimum-and-Recommended-System-Requirements-League-of-Legends
+- https://easypc.com.ph/products/amd-ryzen-5-4500-gaming-desktop?variant=42861978419371
+
+
 
 
 
