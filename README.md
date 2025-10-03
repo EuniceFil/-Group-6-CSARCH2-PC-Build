@@ -97,12 +97,11 @@ Through this project, the group gained a deeper understanding of how each compon
 - https://youtu.be/2aWfb_1DuDI?si=brTtTWVIEF6wW_ho
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link
 - https://www.systemrequirementslab.com/cyri/requirements/dota-underlords/18918
 - https://www.systemrequirementslab.com/cyri/requirements/portal/10668
 - https://support-leagueoflegends.riotgames.com/hc/en-us/articles/201752654-Minimum-and-Recommended-System-Requirements-League-of-Legends
 - https://easypc.com.ph/products/amd-ryzen-5-4500-gaming-desktop?variant=42861978419371
+
 
 
 
